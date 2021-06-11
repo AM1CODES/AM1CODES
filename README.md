@@ -6,7 +6,7 @@
 A Creative Machine Learning, Data Science enthusiast who loves to play around with data. That's the best i could introduce myself. I am a sophomore student currently pursuing B.Tech in CSE with specialization in AI and ML. I love to work with data and that is my primary domain of work as well but apart from that i am also into stuff like UI/UX. I also enjoy writing and publish blogs every now and then in which i share my learnings. I love to build stuff so you can see me at your next hackathon participating with my hacker group! </br>
 Fun Fact : I am freelance film maker and editor as well and i love creating stuff!
 
-Also, If you are someone who wants to get started with Machine Learning and Data science, me and my friends at elecTRON have built **OneStep** which is an educational platform thats an one stop solution for all your Data science and Machine learning needs and it's live right now! You can check it out [here](https://onestep-electron.github.io/)!
+Also, If you are someone who wants to get started with Machine Learning and Data science, me and my friends at elecTRON have built **OneStep** which is an educational platform thats an one stop solution for all your Data science and Machine learning needs and it's live right now! You can check it out [here](https://onestep-electron.github.io/) or you can just head to the repository below if you are feeling adventurous!
 </br>
 </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OneStep-elecTRON&repo=onestep-electron.github.io&theme=tokyonight)](https://github.com/OneStep-elecTRON/onestep-electron.github.io)
