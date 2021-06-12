@@ -37,6 +37,14 @@ Currently, i am diving into the world of Deep learning by building some cool and
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 #### Other
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Connect With Me💻
+<p align="left" align='right'>
+<a target="_blank"href="https://www.linkedin.com/in/aayushmishra1512/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="https://medium.com/@aayush.mishra1512"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a target="_blank"href="https://twitter.com/thatshutterboi"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a target="_blank"href="https://www.instagram.com/thatshutterboi/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
 -----
 
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM1CODES&show_icons=true&theme=tokyonight)
