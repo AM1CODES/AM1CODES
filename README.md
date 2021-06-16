@@ -45,7 +45,9 @@ Currently, i am diving into the world of Deep learning by building some cool and
 <a target="_blank"href="https://twitter.com/thatshutterboi"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a target="_blank"href="https://www.instagram.com/thatshutterboi/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
+
 -----
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM1CODES&show_icons=true&theme=tokyonight)
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM1CODES&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AM1CODES&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
+
 
