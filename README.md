@@ -51,9 +51,3 @@ Currently, i am diving into the world of Deep learning by building some cool and
 </p>
 </p>
 
-
------
-
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM1CODES&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AM1CODES&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
-
-
